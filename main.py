@@ -222,6 +222,6 @@ if whatcard == 0:
 
 print(" ")
 print(" ")
-print(Fore.RED + "if the cards dont mf work try it again retard")
+print(Fore.RED + "if the cards dont mf work try it again")
 print(" ")
 input('Press ENTER to exit')
